@@ -11,4 +11,6 @@
 - get the id value of selected options
 - compare that selected id value to the correct ans of first quiz
 - show the result of first quiz, currect ans, then move to the second quiz. This will continue upto the last quiz
-- When the last quiz over it will show the overall answer and there is a option to restart the game.  
+- When the last quiz over it will show the overall answer and there is a option to restart the game. 
+
+[live link](https://jsquiz-app-js.netlify.app/)
